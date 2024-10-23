@@ -12,3 +12,4 @@ lab6 https://github.com/2303a52239/2303a52239-AIML/blob/main/AIML_lab_6.ipynb
 
 lab 7 https://github.com/2303a52239/2303a52239-AIML/blob/main/AIML_LAB_07.ipynb
 
+lab 10 https://github.com/2303a52239/2303a52239-AIML/blob/main/AIML_LAB_10.ipynb
